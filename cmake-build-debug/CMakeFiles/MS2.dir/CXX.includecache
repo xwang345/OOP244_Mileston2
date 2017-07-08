@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/MS2/ErrorMessage.cpp
+cstring
+-
+ErrorMessage.h
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/MS2/ErrorMessage.h
+
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/MS2/ErrorMessage.h
+iostream
+-
+
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/MS2/ms2_tester.cpp
+iostream
+-
+ErrorMessage.h
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/MS2/ErrorMessage.h
+
