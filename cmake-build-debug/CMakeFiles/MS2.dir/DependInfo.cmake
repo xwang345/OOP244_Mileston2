@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/xiaochen/Downloads/OOP244SDD_WORKS/MS2/ErrorMessage.cpp" "/Users/xiaochen/Downloads/OOP244SDD_WORKS/MS2/cmake-build-debug/CMakeFiles/MS2.dir/ErrorMessage.cpp.o"
-  "/Users/xiaochen/Downloads/OOP244SDD_WORKS/MS2/ms2_tester.cpp" "/Users/xiaochen/Downloads/OOP244SDD_WORKS/MS2/cmake-build-debug/CMakeFiles/MS2.dir/ms2_tester.cpp.o"
+  "C:/Users/zhi/OOP244_Mileston2/ErrorMessage.cpp" "C:/Users/zhi/OOP244_Mileston2/cmake-build-debug/CMakeFiles/MS2.dir/ErrorMessage.cpp.obj"
+  "C:/Users/zhi/OOP244_Mileston2/ms2_tester.cpp" "C:/Users/zhi/OOP244_Mileston2/cmake-build-debug/CMakeFiles/MS2.dir/ms2_tester.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
